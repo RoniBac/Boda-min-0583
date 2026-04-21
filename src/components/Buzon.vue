@@ -11,7 +11,7 @@
     <p class="texto2" v-html="formatearTexto(data?.texto)"></p>
 
     <!-- ICONO -->
-    <img v-if="data?.icono" :src="data?.icono" class="icono" style="filter: invert(0) brightness(2);">
+    <img v-if="data?.icono" :src="data?.icono" class="icon--big" style="filter: invert(0) brightness(2);">
 
     <!-- BOTÓN -->
     <a 

@@ -19,17 +19,17 @@
         <div class="contenido2">
 
             <div class="col">
-            <h3>Ellos</h3>
+            <h3 class="ellos">Ellos</h3>
             <p>
-                Traje<br>
+                <br>
                 {{ data?.ellos }}
             </p>
             </div>
 
             <div class="col">
-            <h3>Ellas</h3>
+            <h3 class="ellas">Ellas</h3>
             <p>
-                Vestidos de noche<br>
+                <br>
                 {{ data?.ellas }}
             </p>
             </div>

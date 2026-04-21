@@ -20,7 +20,7 @@
         </span>
 
       </h1>
-      <img class="icono" :src="icono" alt="Icono" style="filter: invert(1);">
+      <img class="icono" :src="icono" alt="Icono">
     </div>
 
   </section>

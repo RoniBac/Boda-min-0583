@@ -3,7 +3,7 @@
 
     <!-- FRASE -->
     <p class="frase">
-      {{ data?.frase }}
+      "{{ data?.frase }}"
     </p>
 
     <!-- DECORACIÓN -->

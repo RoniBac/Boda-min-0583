@@ -63,7 +63,7 @@ export const invitacion = {
       ]
     },
     {
-      titulo: "Padres del Novio:",
+      titulo: "Padres de el Novio:",
       personas: [
         { nombre: "Bertha Elena Zuñiga Gonzalez" },
         { nombre: "Ruben Avendaño Martinez" }

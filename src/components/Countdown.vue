@@ -5,7 +5,7 @@
       APARTA <span class="titulo-span">esta</span> FECHA
     </h2>
 
-    <p class="tipo">— {{ data?.fechaTexto }} —</p>
+    <p class="fecha fecha--black">— {{ data?.fechaTexto }} —</p>
 
     <div class="countdown">
 
