@@ -1,5 +1,5 @@
 <template>
-  <section class="hero">
+  <section class="hero"  v-if="imagen">
     
     <!-- Imagen -->
     <img :src="imagen" alt="Hero" class="hero-img">
